@@ -12,7 +12,7 @@ const port = process.env.PORT || 5000;
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:3001",
-  "https://your-frontend-name.vercel.app" // ✅ add your vercel URL here
+  "https://i-note-book-react-project.vercel.app" // ✅ YOUR ACTUAL URL
 ];
 
 app.use(
